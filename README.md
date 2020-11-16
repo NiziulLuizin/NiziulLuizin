@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Um pouco sobre me :yellow_heart:
 
  Bom... olá pra você, meu nome é ***Luis***, eu tenho **17** anos, e ainda estou na fase de iniciante, no ramo da
@@ -20,3 +21,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiziulLuizin)](https://github.com/anuraghazra/github-readme-stats)
 
+=======
+## Hi, i´m luizin. I´m from brazil.
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiziulLuizin&show_icons=true&theme=radical)
+>>>>>>> 7bb3b74e1ac05cb8f569c7e32c345680be0240e5
