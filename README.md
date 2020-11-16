@@ -22,13 +22,7 @@
 
 
 
-##### :artificial_satellite: Redes Sócias :artificial_satellite:
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg" alt="LogoFace" style="zoom:5%;" /> *[Facebook](https://www.facebook.com/luis.rodrigo.73113/)* 
-
-<img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="LogoInsta" style="zoom:5%;" /> *[Instagram](https://www.instagram.com/luizinniziul/?hl=en)*
-
-<img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" alt="LogoTwitter" style="zoom:5%;" /> *[Twitter](https://twitter.com/Niziul1)*
 
 
 
