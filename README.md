@@ -12,7 +12,7 @@
 
  pouquinho sobre me nessa nova fase que estou a iniciar.       
 
-![img](file://C:/Users/Yekun762/Downloads/a44a6dcb281f73a187d68f42d09a0c96.jpg?lastModify=1605532159)  
+![img](https://raw.githubusercontent.com/NiziulLuizin/NiziulLuizin/main/a44a6dcb281f73a187d68f42d09a0c96.jpg)  
 
 
 
