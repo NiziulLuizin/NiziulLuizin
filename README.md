@@ -21,9 +21,10 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiziulLuizin&show_icons=true&theme=radical) 
 
 
+#### :artificial_satellite: Redes Sócias :artificial_satellite:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/luis.rodrigo.73113)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luizinniziul/)   
 
-
-
+![Profile views](https://gpvc.arturio.dev/NiziulLuizin) 
 
 
 
