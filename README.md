@@ -9,9 +9,6 @@
  ideia, é incrível o quanto de praticidade a gente ganha ao usar um repositório.  Mas enfim... esse é um
  pouquinho sobre me nessa nova fase que estou a iniciar.       
 
- ![](https://img.shields.io/twitter/url?label=Facebook&logo=facebook&style=social&url=https%3A%2F%2Fwww.facebook.com%2Fluis.rodrigo.73113%2F)
- ![](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fluizinniziul%2F%3Fhl%3Den)
- ![](https://img.shields.io/twitter/url?label=Twitter&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FNiziul1)
 
  <h2 align="center">
   Aqui Estão Algumas Tecnologia Que eu Uso: 
