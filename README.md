@@ -1,3 +1,5 @@
+ ## E ae, sou o luis, e amo programar! :heart_eyes:
+ ![](https://raw.githubusercontent.com/NiziulLuizin/NiziulLuizin/main/imagem_2020-11-18_173532.png)
  <h2 align="center">
   :yellow_heart: Um pouco sobre me :yellow_heart:
  </h2>
@@ -25,9 +27,9 @@
 
 
 
-<h2 align="center">
- :arrow_down_small: Progresso no GitHub :arrow_down_small:
-</h2>
+
+ ## :arrow_down_small: Progresso no GitHub :arrow_down_small:
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiziulLuizin&show_icons=true&theme=radical) 
 
