@@ -24,26 +24,3 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
-
-
-
-
- ## :arrow_down_small: Progresso no GitHub :arrow_down_small:
-
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiziulLuizin&show_icons=true&theme=radical) 
-
-   
-
-
-
-
-
-
-
-
-
-
-
-
-  
