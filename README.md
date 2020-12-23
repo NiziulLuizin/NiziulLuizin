@@ -1,13 +1,13 @@
- ## :technologist: E ae, sou o luis, e adoro programar! :technologist:
+ Oi, sou o luis, e amo a programação! :technologist:
  <h2 align="left">
-  :yellow_heart: Um pouco sobre me :yellow_heart:
+ Um pouco sobre me :yellow_heart:
  </h2>
   <p align="left">
         <img width="220px" height="185" align="right" src="PrograMann.png" alt="">
         Bom... olá pra você, meu nome é <strong>Luis</strong>, eu tenho <strong>17</strong> anos, e ainda estou na fase de iniciante no ramo da programação, e sei o básico sobre           <code>Python</code>, mas nada de muito especifico. ultimamente estou focando meus estudos mais na área do <strong>front-end</strong>, pelo fato de já mexer com                     <strong>Design</strong> a um tempinho. Alias, comecei a usar o GitHub como meu repositório remoto a pouco tempo, e acho que foi uma ótima ideia, é incrível o quanto de             praticidade a gente ganha ao usar um repositório. Mas enfim esse é um pouquinho sobre me nessa nova fase que estou a iniciar.
   </p>  
 <h2 align="left">
- <img height="25" src="https://www.flaticon.com/svg/static/icons/svg/2491/2491783.svg"></img> Aqui estão algumas tecnologia que eu uso <img height="25" src="https://www.flaticon.com/svg/static/icons/svg/2491/2491783.svg"></img>
+ Aqui estão algumas tecnologia que eu uso <img height="25" src="https://www.flaticon.com/svg/static/icons/svg/2491/2491783.svg"></img>
 </h2>
 
 <p align="left">
