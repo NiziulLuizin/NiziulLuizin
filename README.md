@@ -20,7 +20,7 @@
 </p>
 
 <h3>
-   Estatiticas <img height="35" src="https://www.flaticon.com/svg/static/icons/svg/888/888074.svg"></img>
+   Estatíticas <img height="35" src="https://www.flaticon.com/svg/static/icons/svg/888/888074.svg"></img>
 </h3>
 <p align="left">
  <code><img src="https://github-readme-stats.vercel.app/api?username=NiziulLuizin&theme=dark&show_icons=true"></img></code>
