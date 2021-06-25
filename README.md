@@ -5,7 +5,6 @@
  Sobre me <img height="35" src="https://www.flaticon.com/svg/static/icons/svg/2949/2949755.svg"></img>
  </h3>
   <p align="left">
-        <img width="290px" height="250" align="right" src="https://ouch-cdn.icons8.com/preview/252/111d2870-3178-4953-9b04-70281e689a91.png" alt="">
         Bom... olá pra você, meu nome é <strong>Luis</strong>, eu tenho <strong>17</strong> anos, e ainda estou na fase de iniciante no ramo da programação, e sei o básico sobre           <code>Python</code>, mas nada de muito especifico. ultimamente estou focando meus estudos mais na área do <strong>front-end</strong>, pelo fato de já mexer com                     <strong>Design</strong> a um tempinho. Alias, comecei a usar o GitHub como meu repositório remoto a pouco tempo, e acho que foi uma ótima ideia, é incrível o quanto de             praticidade a gente ganha ao usar um repositório. Mas enfim esse é um pouquinho sobre me nessa nova fase que estou a iniciar.
   </p>  
 <h3 align="left">
